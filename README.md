@@ -40,7 +40,7 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: Ssanthosh G
+### Name: Santhosh G
 
 ### Register Number: 212223240152
 
